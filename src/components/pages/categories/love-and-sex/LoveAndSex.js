@@ -49,12 +49,12 @@ export const LoveAndSex = () => {
               />
             </div>
           </Col>
-          <Col className="exit-icon-col" md={{ offset: 5 }}>
+          <Col className="exit-icon-col">
             <a href="/home" className="exit-icon">
               <i
                 class="fas fa-door-open"
                 style={{
-                  fontSize: "350%",
+                  fontSize: "300%",
                 }}
               ></i>
             </a>

@@ -1,6 +1,6 @@
 .category-inputc-col {
   text-align: center;
-  padding: 1%;
+  padding: 2%;
 }
 .category-input {
   height: 150%;
@@ -28,6 +28,7 @@
 }
 .exit-icon-col {
   padding-top: 1%;
+  text-align: end;
 }
 .exit-icon {
   color: black;
